@@ -1,6 +1,5 @@
-# nipa-data-analysis
+# Nipa-data-analysis
 2020 NIPA 인공지능ㆍ데이터분석 믹스앤매치 아카데미  
-<a href = "https://nipa.elice.io">공식 홈페이지</a> | 
 <a href = "https://www.notion.so/2020-NIPA-3394f6ae38de4bbb8ea29eaaa1d4dc49">공식 안내 페이지</a>
 
 ## 교육 과정
@@ -12,8 +11,6 @@
 - 파이썬 실전 데이터 분석
 
 - 코로나 데이터 심층 분석
-
-<br>
 
 ### 📉 [활용] 실전 데이터 분석 및 인공지능 활용 
 - 인공지능으로 주가 예측 체험하기
